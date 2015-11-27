@@ -1,0 +1,97 @@
+desktop/backup/git/hom3/index.html
+desktop/backup/git/hom3/index1.html
+desktop/git/hom3/index.html
+desktop/git/hom3/index1.html
+desktop/SCHOOL/0 Bean Around the Block/Website HTML/booking2.html
+desktop/SCHOOL/0 Bean Around the Block/Website HTML/Dylan's Work/aboutus.html
+desktop/SCHOOL/0 Bean Around the Block/Website HTML/Dylan's Work/booking.html
+desktop/SCHOOL/0 Bean Around the Block/Website HTML/Dylan's Work/contact.html
+desktop/SCHOOL/0 Bean Around the Block/Website HTML/Dylan's Work/index.html
+desktop/SCHOOL/0 Bean Around the Block/Website HTML/Dylan's Work/products.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/L6.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/examples/audio-picture.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/examples/banner-and-image-gallery.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/examples/calc-function.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/examples/Centering stuff.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/examples/drop-down-css-menu.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/examples/image-alignment.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/examples/image-gallery.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/examples/nav bar center.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/examples/video.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/LAB 8/Lab8.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/Lab4-1.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/Lab4-2.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/Lab4-3.html
+desktop/SCHOOL/Intro to Web Technologies/Assignments/Lab7.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/Javascript1/AMayores_Javascript1.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/Useful Sites for Web Dev - Fall 2014.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/anchor-element.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/blank.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/br.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/entities.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/headings-1-6.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/link.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/lists.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/meta.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/paragraph-fragment-elements.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/paragraphs.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_01/style.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_02/canvas1-example.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_02/canvas2-example.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_02/div-and-span.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_02/forms-validation.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_02/forms.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_02/iframe.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_02/images.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_02/semantic-elements.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_02/tables.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/3-different-ways-css.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/box-model.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-adjacent-sibling-selectors.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-attribute-selectors.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-child-selectors.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-class-selectors.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-descendant-selectors.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-element-selectors.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-general-sibling-selectors.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-id-selector.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-intro.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-pseudo-elements.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_03/css-universal-selector.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_04/borders.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_04/columns.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_04/text-decorations.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_04/text-wrap.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_04/typography-settings.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_04/web-fonts.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_05/background-colors.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_05/background-images-multiple.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_05/background-images.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_05/clipping.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_05/css-shapes.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_05/filters.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_06/animation 1 color change.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_06/animation 2 color change percentages.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_06/animation 3 color change loop.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_06/animation 4 move.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_06/animation 5 custom values.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_06/animation 6 change font size.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_06/animation 7 rotate.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_06/animation 8 rotate and resize.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_06/transforms.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_07/centering/centering-things.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_07/image-alignment.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_07/liquid/basic-float-layout.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_07/liquid/final_right.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_07/liquid/float-and-clear-example.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_07/liquid/image-gallery.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_07/liquid/navbar-centered.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_08/audio-picture.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_08/banner-and-image-gallery.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_08/calc-function.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_08/Centering stuff.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_08/drop-down-css-menu.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_08/image-alignment.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_08/image-gallery.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_08/nav bar center.html
+desktop/SCHOOL/Intro to Web Technologies/Lectures/week_08/video.html
